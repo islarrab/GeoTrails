@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="opaque">
+  <!-- The background color -->
+  <item android:drawable="@android:color/black"/>
+  <!-- App Logo -->
+  <item>
+    <bitmap
+      android:src="@mipmap/gps_logger_big"
+      android:gravity="center"/>
+  </item>
+</layer-list>
+
